@@ -1,1 +1,6 @@
-{}
+{
+  "user": {
+    "userid": "admin123",
+    "password": "securepassword"
+  }
+}
